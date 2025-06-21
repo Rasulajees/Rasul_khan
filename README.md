@@ -1,4 +1,3 @@
-# Rasul khan
 # 👋 Hello, I'm RASUL KHAN A!
 
 **🧠 Data Science Enthusiast | 🐍 Python Debugger | 🎯 Career-Focused Problem Solver**
@@ -27,14 +26,14 @@ I'm a methodical and curious learner with a passion for transforming raw data in
 
 ## 🛠️ Technical Skills
 
-| Area                  | Tools & Techniques                            |
-|-----------------------|-----------------------------------------------|
-| Programming           | Python, Git Hub, Visual Studio Code           |
-| Data Analysis         | Pandas, Numpy, Matplotlib, Seaborn            |
-| Machine Learning      | scikit-learn, model tuning, basic regression  |
-| Communication         | Abstract writing, LinkedIn engagement         |
-| Soft Skills           | Adaptability, attention to detail, persistence|
-| Known languages       | Tamil, English, Urdu, Hindi, Arabic           |
+| Area                  | Tools & Techniques                               |
+|-----------------------|--------------------------------------------------|
+| Programming           | Python, Git Hub, Visual Studio Code              |
+| Data Analysis         | Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn |
+| Machine Learning      | scikit-learn, model tuning, basic regression     |
+| Communication         | Abstract writing, LinkedIn engagement            |
+| Soft Skills           | Adaptability, attention to detail, persistence   |
+| Known languages       | Tamil, English, Urdu, Hindi, Arabic              |
 
 ---
 
